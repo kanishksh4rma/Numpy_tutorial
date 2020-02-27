@@ -9,10 +9,10 @@ Install latest release of Numpy module.
 
 ## Usage
 run the command:
-    pip install -r requirements.txt.
-    python numpy_is_cool.py.
+    pip install -r requirements.txt
+    python numpy_is_cool.py
 
 ## Support
 # GitHub
-
-github.com/lonewolf-X.
+ 
+github.com/lonewolf-X
