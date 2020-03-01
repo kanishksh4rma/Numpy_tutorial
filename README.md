@@ -16,3 +16,5 @@ run the command:
 ## GitHub
 
 github.com/lonewolf-X
+## Instagram
+@its.kanishk_sharma
