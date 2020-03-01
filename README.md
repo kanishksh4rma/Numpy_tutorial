@@ -13,6 +13,6 @@ run the command:
     python numpy_is_cool.py
 
 ## Support
-# GitHub
- 
+## GitHub
+
 github.com/lonewolf-X
